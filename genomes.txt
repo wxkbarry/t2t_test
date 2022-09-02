@@ -1,0 +1,7 @@
+genome chr_yafei
+trackDb trackDb.txt
+twoBitPath chr_yafei.2bit
+description fake chromosome
+organism homo sapien
+defaultPos chr_yafei:175000-275000
+htmlPath description.html
