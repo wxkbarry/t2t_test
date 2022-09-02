@@ -1,0 +1,5 @@
+hub chr_yafei
+shortLabel chr_yafei
+longLabel chr_yafei
+genomesFile genomes.txt
+email dgordon@uw.edu
