@@ -6,11 +6,11 @@ type bigBed 12
 visibility full
 itemRgb on
 
-track chr_yafei_wssd JPZ0701_wssd
-bigDataUrl chr_yafei_wssd.bb JPZ0701_wssd.bb
-shortLabel chr_yafei_wssd JPZ0701_wssd
-longLabel  chr_yafei_wssd JPZ0701_wssd
-longLabel  chr_yafei_wssd JPZ0701_wssd
+track chr_yafei_wssd
+bigDataUrl chr_yafei_wssd.bb
+shortLabel chr_yafei_wssd
+longLabel  chr_yafei_wssd
+longLabel  chr_yafei_wssd
 type bigBed 9 
 visibility dense
 itemRgb on
