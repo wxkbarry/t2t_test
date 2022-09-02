@@ -1,0 +1,16 @@
+track chr_yafei_genes
+bigDataUrl chr_yafei_genes.bb
+shortLabel chr_yafei_genes
+longLabel chr_yafei_genes
+type bigBed 12
+visibility full
+itemRgb on
+
+track chr_yafei_wssd
+bigDataUrl chr_yafei_wssd.bb
+shortLabel chr_yafei_wssd
+longLabel  chr_yafei_wssd
+longLabel  chr_yafei_wssd
+type bigBed 9
+visibility dense
+itemRgb on
